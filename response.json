@@ -1,0 +1,265 @@
+//Incorrect JSON
+
+{
+    "data": {
+        "result": "Retrieval successful",
+        "saving": [{
+                "$__": {
+                    "strictMode": true,
+                    "selected": {},
+                    "getters": {},
+                    "_id": "5b51b3f9afa8hj4a0d9d1e89",
+                    "wasPopulated": false,
+                    "activePaths": {
+                        "paths": {
+                            "archived": "init",
+                            "stripe_charged": "init",
+                            "createdAt": "init",
+                            "oldId": "init",
+                            "old_account_id": "init",
+                            "totalSavings": "init",
+                            "checkBackDate": "init",
+                            "type": "init",
+                            "description": "init",
+                            "contractTerm": "init",
+                            "oldBillAmount": "init",
+                            "newBillAmount": "init",
+                            "oneTimeCredit": "init",
+                            "provider_id": "init",
+                            "account_id": "init",
+                            "customer_id": "init",
+                            "employee_id": "init",
+                            "__v": "init",
+                            "updatedAt": "init",
+                            "_id": "init"
+                        },
+                        "states": {
+                            "ignore": {},
+                            "default": {},
+                            "init": {
+                                "archived": true,
+                                "stripe_charged": true,
+                                "createdAt": true,
+                                "oldId": true,
+                                "old_account_id": true,
+                                "totalSavings": true,
+                                "checkBackDate": true,
+                                "type": true,
+                                "description": true,
+                                "contractTerm": true,
+                                "oldBillAmount": true,
+                                "newBillAmount": true,
+                                "oneTimeCredit": true,
+                                "provider_id": true,
+                                "account_id": true,
+                                "customer_id": true,
+                                "employee_id": true,
+                                "__v": true,
+                                "updatedAt": true,
+                                "_id": true
+                            },
+                            "modify": {},
+                            "require": {}
+                        },
+                        "stateNames": [
+                            "require",
+                            "modify",
+                            "init",
+                            "default",
+                            "ignore"
+                        ]
+                    },
+                    "pathsToScopes": {},
+                    "emitter": {
+                        "domain": null,
+                        "_events": {},
+                        "_eventsCount": 0,
+                        "_maxListeners": 0
+                    },
+                    "$options": true
+                },
+                "isNew": false,
+                "_doc": {
+                    "archived": false,
+                    "stripe_charged": 0,
+                    "createdAt": "2018-05-25T12:30:47.000Z",
+                    "oldId": "79903",
+                    "old_account_id": "1906",
+                    "totalSavings": 159.36,
+                    "checkBackDate": "2019-05-24T18:30:00.000Z",
+                    "type": "cellphone",
+                    "description": "testing",
+                    "contractTerm": 12,
+                    "oldBillAmount": 119,
+                    "newBillAmount": 106.97,
+                    "oneTimeCredit": 15,
+                    "provider_id": "5af9a9019b1f403236c989a56",
+                    "account_id": "5b10476632360d598b8e98f2",
+                    "customer_id": "5b103b4d2388557c740dc94",
+                    "employee_id": "5b02cd17ad2232370c0a4dbd",
+                    "__v": 0,
+                    "updatedAt": "2018-07-20T10:05:46.078Z",
+                    "_id": "5b51b3f9af23e24a0d9d1e89"
+                },
+                "$init": true,
+                "employeeName": "Test"
+            },
+            {
+                "$__": {
+                    "strictMode": true,
+                    "selected": {},
+                    "getters": {},
+                    "_id": "5b51b3f9afa8as4a0d9d1b26",
+                    "wasPopulated": false,
+                    "activePaths": {
+                        "paths": {
+                            "archived": "init",
+                            "stripe_charged": "init",
+                            "createdAt": "init",
+                            "oldId": "init",
+                            "old_account_id": "init",
+                            "totalSavings": "init",
+                            "checkBackDate": "init",
+                            "type": "init",
+                            "description": "init",
+                            "contractTerm": "init",
+                            "oldBillAmount": "init",
+                            "newBillAmount": "init",
+                            "oneTimeCredit": "init",
+                            "provider_id": "init",
+                            "account_id": "init",
+                            "customer_id": "init",
+                            "employee_id": "init",
+                            "__v": "init",
+                            "updatedAt": "init",
+                            "_id": "init"
+                        },
+                        "states": {
+                            "ignore": {},
+                            "default": {},
+                            "init": {
+                                "archived": true,
+                                "stripe_charged": true,
+                                "createdAt": true,
+                                "oldId": true,
+                                "old_account_id": true,
+                                "totalSavings": true,
+                                "checkBackDate": true,
+                                "type": true,
+                                "description": true,
+                                "contractTerm": true,
+                                "oldBillAmount": true,
+                                "newBillAmount": true,
+                                "oneTimeCredit": true,
+                                "provider_id": true,
+                                "account_id": true,
+                                "customer_id": true,
+                                "employee_id": true,
+                                "__v": true,
+                                "updatedAt": true,
+                                "_id": true
+                            },
+                            "modify": {},
+                            "require": {}
+                        },
+                        "stateNames": [
+                            "require",
+                            "modify",
+                            "init",
+                            "default",
+                            "ignore"
+                        ]
+                    },
+                    "pathsToScopes": {},
+                    "emitter": {
+                        "domain": null,
+                        "_events": {},
+                        "_eventsCount": 0,
+                        "_maxListeners": 0
+                    },
+                    "$options": true
+                },
+                "isNew": false,
+                "_doc": {
+                    "archived": false,
+                    "stripe_charged": 1,
+                    "createdAt": "2017-08-07T20:33:17.000Z",
+                    "oldId": "1110",
+                    "old_account_id": "1936",
+                    "totalSavings": 20,
+                    "checkBackDate": "2018-08-06T18:30:00.000Z",
+                    "type": "cellphone",
+                    "description": "spoke with brian:Fallobr",
+                    "contractTerm": 12,
+                    "oldBillAmount": 119.48,
+                    "newBillAmount": 119.48,
+                    "oneTimeCredit": 20,
+                    "provider_id": "5af9a901as1f40176c989a56",
+                    "account_id": "5b1047663as60d598b8e98f2",
+                    "customer_id": "5b103b4dasa88557c740dc94",
+                    "employee_id": "5af9a9b7asae5835a4f14b01",
+                    "__v": 0,
+                    "updatedAt": "2018-07-20T10:05:46.040Z",
+                    "_id": "5b51b3f9afa8e24as9d1b26"
+                },
+                "$init": true,
+                "employeeName": "test"
+            }
+        ]
+    }
+}
+
+//Corrected JSON
+
+{
+    "data": {
+        "result": "Retrieval successful",
+        "saving": [{
+                "employeeName": "test",
+                "_id": "5b51b3f9afaas24a0d9d1e89",
+                "updatedAt": "2018-07-20T10:05:46.078Z",
+                "__v": 0,
+                "employee_id": "5b02cd17ad2as370c0a4dbd",
+                "customer_id": "5b103b4d8aaas557c740dc94",
+                "account_id": "5b1047663056as598b8e98f2",
+                "provider_id": "5af9a9019b1fasa0176c989a56",
+                "oneTimeCredit": 15,
+                "newBillAmount": 106.97,
+                "oldBillAmount": 119,
+                "contractTerm": 12,
+                "description": "test",
+                "type": "cellphone",
+                "checkBackDate": "2019-05-24T18:30:00.000Z",
+                "totalSavings": 159.36,
+                "old_account_id": "1936",
+                "oldId": "7903",
+                "createdAt": "2018-05-25T12:30:47.000Z",
+                "stripe_charged": 0,
+                "archived": false
+            },
+            {
+                "employeeName": "Test",
+                "_id": "5b51b3f9afaas24a0d9d1b26",
+                "updatedAt": "2018-07-20T10:05:46.040Z",
+                "__v": 0,
+                "employee_id": "5afas9b7a0ae5835a4f14b01",
+                "customer_id": "5b1asb4d8aa88557c740dc94",
+                "account_id": "5b10as6630560d598b8e98f2",
+                "provider_id": "5afas9019b1f40176c989a56",
+                "oneTimeCredit": 20,
+                "newBillAmount": 119.48,
+                "oldBillAmount": 119.48,
+                "contractTerm": 12,
+                "description": "spoke with brian:Fallobr",
+                "type": "cellphone",
+                "checkBackDate": "2018-08-06T18:30:00.000Z",
+                "totalSavings": 20,
+                "old_account_id": "1936",
+                "oldId": "1110",
+                "createdAt": "2017-08-07T20:33:17.000Z",
+                "stripe_charged": 1,
+                "archived": false
+            }
+        ]
+    }
+}

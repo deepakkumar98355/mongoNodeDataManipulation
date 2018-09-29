@@ -1,0 +1,22 @@
+[{
+    "employee_id": "5af9a9b7a0ae5835asaa4f14afa",
+    "fullname": "Test",
+    "email": "Test@Test.com",
+    "gender": "Male",
+    "phone": "3157817281221",
+    "address": "224 Kennedy Drive"
+}, {
+    "employee_id": "5af9a9b7a0ae5835asaa4f14afa",
+    "fullname": "Test",
+    "email": "Test@Test.com",
+    "gender": "Male",
+    "phone": "3157817281221",
+    "address": "2030 Waverly Glend DR"
+}, {
+    "employee_id": "5af9a9b7a0ae5835asaa4f14afa",
+    "fullname": "Test",
+    "email": "Test@Test.com",
+    "gender": "Male",
+    "phone": "3157817281221",
+    "address": "2215 Brushmeade ln."
+}]
